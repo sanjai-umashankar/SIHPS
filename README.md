@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 1/12/2024
+## Register Number: 24004616
+## Name: SANJAI U
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,37 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1.AlumniConnect: It is a platform designed to build a strong alumni network. This platform allows users to create profiles, connect with fellow alumni, and participate in discussion forums and groups. By facilitating connections and communication, AlumniConnect fosters a sense of community and belonging among alumni.
 
+2.CareerGuide: It is another platform that provides career guidance and support to students and young alumni. This platform connects users with experienced alumni mentors who can offer valuable advice and insights. By leveraging the expertise of established alumni, CareerGuide helps users navigate their career paths and achieve their professional goals.
+
+3.AlumniEvents: It is a platform that streamlines event planning and fundraising efforts. This platform allows users to register for events, make donations, and sponsor events. By providing a centralized hub for event management, AlumniEvents simplifies the planning process and increases engagement.
+
+4.AlumniHonors: It is a platform that recognizes and rewards alumni for their achievements and contributions. This platform fosters a sense of community and loyalty by acknowledging the accomplishments of esteemed alumni. By celebrating the successes of its alumni, the university demonstrates its appreciation for their hard work and dedication.
+
+5.AlumniInsights: It is a platform that provides a unified view of alumni data, enabling data-driven decision-making and strategic engagement initiatives. This platform offers valuable insights into alumni behavior, preferences, and demographics. By analyzing these trends and patterns, the university can tailor its outreach efforts and create more effective engagement strategies.
 
 ## Proposed Solution / Architecture Diagram
-
+![alt text](diagram.jpeg)
 
 ## Use Cases
-
+![alt text](<use case.jpeg>)
 
 ## Technology Stack
+React.js
 
+MongoDB
+
+JWT Token
+
+Stripe
+
+Google Maps API
 
 ## Dependencies
+Mapping service - 15 days
+
+Data Collection - 25 days
+
+Budget - Rs.40,000
 
